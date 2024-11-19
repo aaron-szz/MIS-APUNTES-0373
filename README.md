@@ -22,6 +22,19 @@
 # Markdawn
 
 TIPOS DE ENCABEZADOS
+```
+# ENCABEZADO 1
+
+## ENCABEZADO 2
+
+### ENCABEZADO 3
+
+#### ENCABEZADO 4
+
+##### ENCABEZADO 5
+
+###### ENCABEZADO 6
+```
 
 # ENCABEZADO 1
 
@@ -34,6 +47,7 @@ TIPOS DE ENCABEZADOS
 ##### ENCABEZADO 5
 
 ###### ENCABEZADO 6
+
 
 TIPOS DE TEXTO 
 
@@ -63,8 +77,8 @@ TIPOS DE TEXTO
 
 |Primera col.|Segunda col.|3 col.|
 |---------------|:-------------:|---------:|
-|COl 2 es|centrada|35€|
-|COl 3 es|derecha|134€|
+|COl 2 es|centrada|xxx|
+|COl 3 es|derecha|xxx|
 |Estilo cebra|Gris|Blanco|
 |Clase|ASIX1|M4|
 
