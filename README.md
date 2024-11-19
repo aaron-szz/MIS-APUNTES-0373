@@ -1,8 +1,5 @@
 # MIS-APUNTES-0373
 
-# MIS-APUNTES-0373
-
-# APUNTES-0373
 
 
 # GIT
@@ -19,7 +16,7 @@
 
 **git branch**: Muestra y crea ramas.
 
-# Markdawn
+# Markdown
 
 TIPOS DE ENCABEZADOS
 ```
@@ -50,16 +47,18 @@ TIPOS DE ENCABEZADOS
 
 
 TIPOS DE TEXTO 
-
+```
 1. este texto esta en *cursiva*
 2. este texto esta en _cursiva_
 3. este texto esta en **negrita**
 4. este texto esta en __negrita__
 5. este texto esta en _**negrita y cursiva**_
-
-1. Primera opcion de menu
-2. Segunda opcion de menu
-3. Tercera opcion de menu
+```
+1. este texto esta en *cursiva*
+2. este texto esta en _cursiva_
+3. este texto esta en **negrita**
+4. este texto esta en __negrita__
+5. este texto esta en _**negrita y cursiva**_
 
 * Primera opcion de lista desordenada
 * Segunda opcion de lista desordenada
