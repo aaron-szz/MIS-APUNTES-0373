@@ -21,11 +21,27 @@
 
 # Markdawn
 
-este texto esta en *cursiva*
-este texto esta en _cursiva_
-este texto esta en **negrita**
-este texto esta en __negrita__
-este texto esta en _**negrita y cursiva**_
+TIPOS DE ENCABEZADOS
+
+# ENCABEZADO 1
+
+## ENCABEZADO 2
+
+### ENCABEZADO 3
+
+#### ENCABEZADO 4
+
+##### ENCABEZADO 5
+
+###### ENCABEZADO 6
+
+TIPOS DE TEXTO 
+
+1. este texto esta en *cursiva*
+2. este texto esta en _cursiva_
+3. este texto esta en **negrita**
+4. este texto esta en __negrita__
+5. este texto esta en _**negrita y cursiva**_
 
 1. Primera opcion de menu
 2. Segunda opcion de menu
